@@ -1,6 +1,6 @@
 # Hi, I'm Hidayat Ullah 👋
 
-### Flutter Developer | Cross-Platform Mobile Apps | Supabase | GetX
+### Flutter Developer | Cross-Platform Mobile Apps | Supabase | Firebase | GetX
 
 I’m a **Flutter Developer and Computer Science student** focused on building clean, scalable, and production-ready mobile applications for Android and iOS.
 
